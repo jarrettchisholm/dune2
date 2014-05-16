@@ -17,4 +17,4 @@ so I just decided to omit them.
 I used Eclipse to create the project.  If you want to build it, you should be able to just open the project in Eclipse and build.  However,
 running will likely fail due to missing assets.
 
-You can see a video of the gameplay [here](www.youtube.com/embed/_ljNvPPO3is).
+You can see a video of the gameplay [here](https://www.youtube.com/embed/_ljNvPPO3is).
