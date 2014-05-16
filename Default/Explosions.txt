@@ -1,0 +1,11 @@
+3 // NUM EXPLOSIONS
+
+General Explosion
+13
+
+Small Explosion
+8
+
+Machine Gun Hit
+8
+

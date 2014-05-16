@@ -1,0 +1,22 @@
+5 //NUMBER OF PROJECTILES
+
+Machine Gun
+Machine Gun Hit
+31.0 //SPEED
+
+Light Rocket
+Small Explosion
+16.0
+
+Heavy Rocket
+General Explosion
+14.0
+
+Cannon Shell
+Small Explosion
+30.0
+
+Mortar
+General Explosion
+18.0
+

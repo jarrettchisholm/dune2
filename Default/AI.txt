@@ -1,0 +1,64 @@
+7  //Num
+
+Ordos
+1 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+1 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Combat Tank
+
+Ordos
+2 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+1 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Combat Tank
+
+Ordos
+3 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+2 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Combat Tank
+Assault Buggy
+
+Ordos
+4 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+2 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Combat Tank
+Combat Tank
+
+Ordos
+5 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+3 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Combat Tank
+Combat Tank
+Combat Tank
+
+Ordos
+6 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+3 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Combat Tank
+Combat Tank
+Assault Buggy
+
+Ordos
+7 //WAVE NUMBER // DIFFICULTY LEVEL // ATTACK TYPE
+Easy
+Suicide
+1 //NUM UNITS // JOB TYPE // UNIT NAMES
+Attack
+Assault Buggy
+

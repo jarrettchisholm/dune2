@@ -1,0 +1,102 @@
+0 0 0 0 0 0 0 0 0 100 100 100 100 100 100 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 100 100 100 100 100 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 100 100 100 100 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 100 100 100 100 100 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 100 100 100 100 100 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 100 100 100 100 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 100 100 100 100 100 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 100 0 0 100 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 100 0 100 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 100 0 100 100 0 0 0 0 0 0 0 0 0 0 0 0 0 
+100 0 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 0 
+0 100 100 100 100 100 100 100 100 0 0 0 0 0 0 0 0 0 0 0 
+
+2
+
+Reinforcements
+1
+3
+false
+
+IF
+BRING
+5
+4
+1
+ALL
+At Least
+ANY
+Location 1
+1.0
+
+DISPLAY TEXT
+None
+2
+1
+1
+HQ:  "Reinforcements have arrived!" 
+15.0
+
+CREATE UNITS
+None
+4
+3
+1
+Atreides
+Combat Tank
+Location 2
+5.0
+
+ORDER
+Attack
+4
+4
+0
+Atreides
+Combat Tank
+Location 2
+Location 4
+
+Enemies Attack
+1
+2
+false
+
+IF
+BRING
+5
+4
+1
+ALL
+At Least
+Combat Tank
+Location 1
+1.0
+
+DISPLAY TEXT
+None
+2
+1
+1
+Recon: "Enemy tanks are approaching!"
+100.0
+
+CREATE UNITS
+None
+4
+3
+1
+Ordos
+Combat Tank
+Location 3
+3.0
+
+

@@ -1,0 +1,146 @@
+12
+
+Construction Yard
+500 //HP
+5 //DEFENSE / TYPE OF DEFENSE
+Fortified
+2 //SIZEx
+2 //SIZEy
+0 //POWER NEEDS
+0 // COST
+0 //BUILD TIME
+true //ENTERABLE -True or False // WHAT NEEDED TO BUILD THIS BUILDING
+Construction Yard
+
+Single Slab
+20
+0
+Fortified
+1
+1
+0
+5
+4
+false
+Construction Yard
+
+4 Slab
+20
+0
+Fortified
+2
+2
+0
+20
+12
+false
+Construction Yard
+
+Barrack
+200
+3
+Fortified
+2
+2
+20
+200
+35
+true
+Construction Yard
+
+Light Factory
+300
+5
+Fortified
+2
+2
+20
+350
+40
+true
+Construction Yard
+
+Heavy Factory
+425
+8
+Fortified
+3
+2
+35
+450
+60
+true
+Light Factory
+
+Radar
+300
+4
+Fortified
+2
+2
+30
+300
+30
+false
+Refinery
+
+Refinery
+325
+5
+Fortified
+3
+2
+30
+300
+40
+false
+Construction Yard
+
+Silo
+150
+1
+Fortified
+2
+2
+5
+50
+25
+false
+Refinery
+
+Wall
+150
+5
+Fortified
+1
+1
+0
+50
+15
+false
+Heavy Factory
+
+Windtrap
+175
+0
+Fortified
+2
+2
+100
+150
+30
+false
+Construction Yard
+
+WOR
+350
+5
+Fortified
+2
+2
+20
+250
+35
+true
+Light Factory
+

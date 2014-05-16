@@ -1,0 +1,314 @@
+Default.txt
+DefaultMap.map
+-1
+-1
+0.0
+0.0
+0.0
+Easy
+0.0
+1
+
+0
+
+0
+
+Atreides
+1
+3
+12000
+
+Assault Buggy
+60 REMAINING HP
+60 PREVIOUS HP
+90 CURRENT ANGLE
+-1 ANGLE OF TURRET
+5 X COORD
+5 Y COORD
+-1 GOTO X
+-1 GOTO Y
+-1 BE HERE X
+-1 BE HERE Y
+-1 ATTACK HERE X
+-1 ATTACK HERE Y
+false //ATTACK
+false //MOVE AND ATTACK
+0 //WAVE (used for AI only)
+0 PROGRESS
+0.0 LAST FIRE TIME
+false //DOCKED  // STATUS (ie. orders) // JOB
+Stop
+None
+
+Combat Tank
+100
+100
+90
+230
+7
+4
+-1
+-1
+-1
+-1
+-1
+-1
+false
+false
+0
+0
+0.0
+false
+Stop
+None
+
+Combat Tank
+125
+125
+0
+230
+8
+4
+-1
+-1
+-1
+-1
+-1
+-1
+false
+false
+0
+0
+0.0
+false
+Stop
+None
+
+Construction Yard
+450 //HP 
+450 //PREVIOUS HP // UNIT JOB // CURRENT CONSTRUCTION // PREVIOUS CONSTRUCTION
+None
+None
+None
+0 //WAVE NUMBER (used for ai only)
+-1 //PROGRESS
+2 // X
+2 // Y // STATUS
+Stop
+0.00 // BUILDING LEVEL
+
+1 //WAVE NUMBER // HOUSE NAME
+Ordos
+4
+7
+1200//CREDITS
+
+Assault Buggy
+40
+40
+90
+-1
+17
+1
+-1
+-1
+-1
+-1
+-1
+-1
+false
+false
+0
+-1
+0.0
+false
+Stop
+Guard
+
+Assault Buggy
+40
+40
+90
+-1
+4
+1
+-1
+-1
+-1
+-1
+-1
+-1
+false
+false
+0
+-1
+0.0
+false
+Stop
+Guard
+
+Assault Buggy
+40
+40
+90
+-1
+3
+1
+-1
+-1
+-1
+-1
+-1
+-1
+false
+false
+0
+-1
+0.0
+false
+Stop
+Guard
+
+Combat Tank
+65
+65
+90
+90
+6
+17
+-1
+-1
+-1
+-1
+-1
+-1
+false
+false
+0
+-1
+0.0
+false
+Stop
+Guard
+
+Combat Tank
+25
+25
+0
+0
+4
+17
+4
+16
+7
+1
+-1
+-1
+false
+true
+0
+0
+0.0
+false
+Stop
+Guard
+
+Combat Tank
+48
+48
+270
+45
+3
+15
+2
+15
+6
+1
+-1
+-1
+false
+true
+0
+0
+0.0
+false
+Stop
+Guard
+
+Harvestor
+50
+50
+270
+-1
+10
+15
+9
+15
+0
+19
+-1
+-1
+false
+false
+0
+-1
+0.0
+false
+Move
+None
+0  //HOLDING CREDITS
+true //IS HARVESTING
+
+Construction Yard
+500 //HP // CURRENT CONSTRUCTION
+500
+None
+None
+None
+0
+-1 //PROGRESS
+12 // X
+16 // Y // STATUS
+Stop
+0.00 // BUILDING LEVEL
+
+Refinery
+120 //HP // CURRENT CONSTRUCTION
+120
+None
+None
+None
+0
+-1 //PROGRESS
+14 // X
+15 // Y // STATUS
+Stop
+0.00 // BUILDING LEVEL
+false //HARVESTOR DOCKED
+
+Light Factory
+120 //HP // CURRENT CONSTRUCTION
+120
+None
+None
+None
+0
+-1 //PROGRESS
+17 // X
+14 // Y // STATUS
+Stop
+0.00 // BUILDING LEVEL
+
+Heavy Factory
+50 //HP // CURRENT CONSTRUCTION
+50
+None
+None
+None
+0
+-1 //PROGRESS
+16 // X
+12 // Y // STATUS
+Stop
+0.00 // BUILDING LEVEL
+
